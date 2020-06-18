@@ -1,0 +1,7 @@
+{
+  "base_url": "http://interview.agileengine.com",
+  "api_key": "23567b218376f79d9415",
+  "wrong_api_key": "23567b218376f7",
+  "refresh_interval": 5000,
+  "max_number_of_retries": 5
+}
